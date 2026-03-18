@@ -1,0 +1,1 @@
+Okay so I want to create this sort of interactive camera app that shows pictures as one scrolls down. The pictures are of a toddler's journey from birth until 2 years old. It has a selection of around 50 pictures. Can you write the code for ths same such that I can create it in Claude and also add these exact pictures to them.
